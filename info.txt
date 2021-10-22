@@ -1,0 +1,36 @@
+https://www.exploit-db.com/exploits/49074
+https://12.157.8.179:10443/remote/logincheck
+https://www.shodan.io/host/12.157.8.179/history#4500
+
+
+
+
+
+
+
+
+What OS version is fortinet using.
+Does it have redundant power supply, or failover firewall.
+What are the threat options currently running.
+Can you export the outbound and inbound rules.
+
+
+Are you using MFA, what vendor?
+Are you using EDR, AV and what vendor?
+Are you using webfiltering device, what vendor?
+- Are you allowing the download of executable files?
+Any other inline IDS/IPS systems, what vendor?
+What system manages your patching?
+Are you inspecting files for DLP, What vendor?
+Are you using email protection, what vendor? (are you allowing zip and known bad file extensions)
+Are you using a mobile device manager? (terminated or DLP loss potential)
+
+
+
+
+
+
+
+
+
+
